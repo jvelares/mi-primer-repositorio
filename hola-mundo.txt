@@ -1,3 +1,2 @@
 !hola, mundo¡ capo
-hola1
-hola2
+hola
