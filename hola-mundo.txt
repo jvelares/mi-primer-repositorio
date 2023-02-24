@@ -1,5 +1,14 @@
 !hola, mundo¡
 prueba de commit 1
 prueba 2
+<<<<<<< HEAD
 prueba 3
 prueba 4
+=======
+<<<<<<< HEAD
+prueba 3
+=======
+prueba 3
+prueba 4
+>>>>>>> 11b7461d7d1bd8af0474571226d3854014e3c2d5
+>>>>>>> a2e4948a13ecbe2405c9827bfcede60e90f9acf5
